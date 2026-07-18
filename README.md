@@ -13,11 +13,11 @@ A SQL + Python analysis of 1,000 point-of-sale transactions across three superma
 
 ## Key Findings
 
-- **Naypyitaw** generated the highest total revenue ($110.6K) of the three branches, with Yangon ($106.2K) and Mandalay ($106.2K) close behind — the gap looks more like transaction-mix noise than a location clearly underperforming.
+- **Naypyitaw** generated the highest total revenue ($110.6K) of the three branches, with Yangon ($106.2K) and Mandalay ($106.2K) close behind. The gap looks more like transaction-mix noise than a location clearly underperforming.
 - **Food and beverages** ($56.1K) and **Sports and travel** ($55.1K) are the top two product lines by revenue; **Health and beauty** ($49.2K) trails the rest, suggesting an opportunity for targeted promotions.
 - **Saturday is the strongest day** $56K and **Monday the weakest** $38K — a ~48% gap, suggesting staffing and inventory should skew toward the weekend rather than being spread evenly across the week.
-- **Ewallet (34.5%), cash (34.4%), and credit card (31.1%)** are used in nearly even proportions, so no single payment rail dominates checkout — all three are worth keeping well-supported at point of sale.
-- **Quantity and Total are strongly correlated** (as expected), while **customer satisfaction rating shows almost no correlation with spend** (-0.04) — happier customers don't necessarily spend more per visit, which argues against using satisfaction score alone as a spend predictor.
+- **Ewallet (34.5%), cash (34.4%), and credit card (31.1%)** are used in nearly even proportions, so no single payment rail dominates checkout. All three are worth keeping well-supported at point of sale.
+- **Quantity and Total are strongly correlated** (as expected), while **customer satisfaction rating shows almost no correlation with spend** (-0.04)  happier customers don't necessarily spend more per visit, which argues against using satisfaction score alone as a spend predictor.
 
 ## Charts
 
